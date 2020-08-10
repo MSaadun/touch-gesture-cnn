@@ -10,5 +10,5 @@ set for evaluation, resulted in an accuracy of 61.5%.
 
 # dataset
 
-The Corpus of Social Touch (CoST) can be downloaded from shorturl.at/cefl1 .
+The Corpus of Social Touch (CoST) can be downloaded from https://doi.org/10.4121/uuid:5ef62345-3b3e-479c-8e1d-c922748c9b29 .
 Using the files in '/R files' , the downloaded .xls file can be filtered in seperate files for each user and touch gesture.
